@@ -6,7 +6,7 @@
 
 # [Project 4: Employee Attrition in Organisation](https://github.com/SidSolanki28/Employee-Attrition-in-Organisation)
 
-# [Project 5: Absenteeism-at-Work](https://github.com/SidSolanki28/Absenteeism-at-Work)
+# [Project 5: Absenteeism-at-Work](https://sidsolanki28.github.io/Absenteeism-at-Workplace)
 
 # [Project 6: Credit Card Customer Segmentation](https://sidsolanki28.github.io/Credit-Cards-Customer-Segmentation) 
 
