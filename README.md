@@ -8,7 +8,7 @@
 
 # [Project 5: Absenteeism-at-Work](https://github.com/SidSolanki28/Absenteeism-at-Work)
 
-# Project 6: Credit Card Customer Segmentation 
+# [Project 6: Credit Card Customer Segmentation](https://sidsolanki28.github.io/Credit-Cards-Customer-Segmentation) 
 
 # [Project 7: Urban Sound Audio Classification](https://sidsolanki28.github.io/UrbanSound-Audio-Classification)
 
