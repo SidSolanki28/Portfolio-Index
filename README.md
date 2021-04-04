@@ -10,5 +10,5 @@
 
 # Project 6: Credit Card Customer Segmentation 
 
-# Project 7: Urban Sound Audio Classification
+# [Project 7: Urban Sound Audio Classification](https://sidsolanki28.github.io/UrbanSound-Audio-Classification)
 
