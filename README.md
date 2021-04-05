@@ -4,7 +4,7 @@
 
 ## [Project 3: Predict Sales by Advertising Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
 
-## [Project 4: Employee Attrition in Organisation](https://sidsolanki28.github.io/Employee-Attrition-from-Organisation/)
+## [Project 4: Employee Attrition in Organisation](https://sidsolanki28.github.io/Employee-Attrition-from-Organisation)
 
 ## [Project 5: Absenteeism-at-Work](https://sidsolanki28.github.io/Absenteeism-at-Workplace)
 
