@@ -1,6 +1,6 @@
 ## [Project 1: Sentiment Analysis of Twitter](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
 
-## [Project 2: Predict Future Product Sales](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
+## [Project 2: Predict Future Product Sales](https://sidsolanki28.github.io/Future-Sales-Prediction-of-Product)
 
 ## [Project 3: Predict Sales by Advertising Ads](https://sidsolanki28.github.io/Sales-Prediction-by-Advertising-Ads/)
 
