@@ -2,7 +2,7 @@
 
 ## [Project 2: Predict Future Product Sales](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
 
-## [Project 3: Predict Sales by Advertising Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
+## [Project 3: Predict Sales by Advertising Ads](https://sidsolanki28.github.io/Sales-Prediction-by-Advertising-Ads/)
 
 ## [Project 4: Employee Attrition in Organisation](https://sidsolanki28.github.io/Employee-Attrition-from-Organisation)
 
