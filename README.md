@@ -1,4 +1,4 @@
-## [Project 1: Sentiment Analysis of Twitter](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
+## [Project 1: Sentiment Analysis of Twitter](https://sidsolanki28.github.io/Sentiment-Analysis-of-Tweets)
 
 ## [Project 2: Predict Future Product Sales](https://sidsolanki28.github.io/Future-Sales-Prediction-of-Product)
 
